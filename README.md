@@ -5,7 +5,7 @@ This is the very beginning of this project. Stay tuned for more information or c
 What's the next steps:
 - [ ] looking for transport open data portals
 - [ ] create an Issue for every dataset
-  - [ ] Austria [Österreichische Bundesbahnen](https://data.oebb.at/)
+  - [X] Austria [Österreichische Bundesbahnen](https://data.oebb.at/) (2021-04-04)
   - [ ] France [SNCF](https://ressources.data.sncf.com/pages/accueil/)
   - [ ] Germany [Deutsche Bahn AG](https://data.deutschebahn.com/)
   - [ ] Germany [OpenData-Plattform ÖPNV](https://www.opendata-oepnv.de/)

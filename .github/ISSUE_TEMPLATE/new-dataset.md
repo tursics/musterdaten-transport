@@ -2,37 +2,37 @@
 name: New Dataset
 about: Add the metadata of a new dataset
 title: ''
-labels: ''
+labels: new dataset
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Title**
+Title of the dataset
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Description**
+Description of the dataset
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Link to portal**
+- Link to dataset in portal 1
+- Link to dataset in portal 2
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Identifier**
+Internal identifier of the dataset in the portal
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Group / Theme**
+Group in the data portal
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Tags**
+- Tag 1
+- Tag 2
+- Tag 3
 
-**Additional context**
-Add any other context about the problem here.
+**Source organisation**
+Data provider organisation
+
+**Domain data provider**
+DCAT-AP for Switzerland info
+
+**Geo area**
+Covered geo area

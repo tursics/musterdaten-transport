@@ -16,7 +16,9 @@ What's the next steps:
   - [ ] Switzerland [Open-Data-Plattform Mobilität Schweiz](https://opentransportdata.swiss/de/)
 - [ ] tag every dataset (to sort in Musterdatenkatalog structure)
 - [ ] export data
-- [ ] create an own view of the data like [the city of Münster](https://github.com/od-ms/musterdatenkatalog)
+- [ ] create an own view of the data like
+  - [ ]  [the city of Münster](https://github.com/od-ms/musterdatenkatalog)
+  - [ ]  [Open NRW](https://mqa-open.nrw.de/mqa-service/dashboard.html)
 
 ## Musterdatenkatalog
 

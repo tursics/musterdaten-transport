@@ -8,6 +8,8 @@ What's the next steps:
   - [X] Austria [Österreichische Bundesbahnen](https://data.oebb.at/) (2021-04-04)
   - [ ] France [SNCF](https://ressources.data.sncf.com/pages/accueil/)
   - [ ] Germany [Deutsche Bahn AG](https://data.deutschebahn.com/)
+    - [ ] [current version](https://data.deutschebahn.com/dataset?groups=datasets) is down
+    - [ ] [wayback to 2021-02-26](https://web.archive.org/web/20210226121653/https://data.deutschebahn.com/dataset?groups=datasets) is available
   - [ ] Germany [OpenData-Plattform ÖPNV](https://www.opendata-oepnv.de/)
   - [ ] Germany [mCLOUD](https://www.mcloud.de/web/guest/suche/-/results/filter/latest/categories%3Arailway/0)
   - [ ] Switzerland [Schweizerische Bundesbahnen SBB](https://data.sbb.ch/)
